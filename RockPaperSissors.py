@@ -4,7 +4,7 @@ print("""
   ▄████    ▆█▆▄    ▙█▆▄
   █████   █████   █████
    ▀▀▀     ▀▀▀     ▀▀▀
-  paper    rock   sissors
+  paper   rock    sissors
 """)
 
 choice = input()
